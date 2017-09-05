@@ -1,3 +1,3 @@
 # Kramers-Kronig
-Deriving dispersion n from transmittance data
-Requires Mathematica to run
+# Deriving dispersion n from transmittance data
+# Requires Mathematica to run
